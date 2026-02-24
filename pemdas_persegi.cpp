@@ -9,6 +9,6 @@ int main(){
     cin >> l;
     luas = p * l;
     keliling = 2 * (p + l);
-    cout << "Luas persegi: " << luas << "cm" << endl;
+    cout << "Luas persegi: " << luas << "cm^2" << endl;
     cout << "Keliling persegi: " << keliling << "cm" << endl;
 }
